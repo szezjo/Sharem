@@ -13,7 +13,7 @@ To run a precompiled app you need Java 14 (version 58.0). If you have installed,
 # Compiling
 The application was made with IntelliJ IDEA and that's why using it should be the easier method to compile it. If you want to compile it through CLI or with other methods, just remember that your method must support IDEA forms.
 
-# Why Sharem was made?
+# Why was Sharem made?
 It was made as a part of university labs to learn how to create GUI network application - it was the first try, so bear in mind that it's relatively simple and the code is - I bet - spaghetti one.
 
 
